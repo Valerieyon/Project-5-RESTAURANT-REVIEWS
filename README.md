@@ -9,7 +9,7 @@ When clicked the "View details" button, additional information will be shown.
 ### Installation
 1. Download or clone this repository.
 2. In a terminal, check the version of Python you have: python -V. Spin up the server with python -m SimpleHTTPServer 8000 or python -m http.server 8000.
-3. Visit http://localhost:8000.
+3. Click open index.html.
 
 ### Steps of creating
 1. First I added Google Map API and replaced the default MapBox API.
