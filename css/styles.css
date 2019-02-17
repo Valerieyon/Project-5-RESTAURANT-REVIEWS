@@ -182,7 +182,7 @@ nav h1 a {
   min-height: 248px;
   min-width: 100%;
 }
-#restaurants-list li h1 {
+#restaurants-list li h3 {
   color: #f18200; /*change color*/
   font-family: Arial,sans-serif;
   font-size: 14pt;
@@ -413,7 +413,7 @@ nav h1 a {
 	#restaurants-list li {
     max-width: 42%;
   }
-  #restaurants-list li h1 {
+  #restaurants-list li h3 {
     height: 35px;
   }
 	.inside #map-container {
@@ -436,7 +436,7 @@ nav h1 a {
   #restaurants-list p {
     width: 66%;
   }
-  #restaurants-list li h1 {
+  #restaurants-list li h3 {
     height: 41px;
   }
 
